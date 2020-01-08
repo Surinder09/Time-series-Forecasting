@@ -8,7 +8,7 @@ Python libraries used- Pandas,numpy,matplotlib,keras,statsmodel,sklearn
 
  Performed 
  - Data exploration
- - identified Trend and seasonality
+ - Identified Trend and seasonality
  - Outliers 
  
  Algorithm used
