@@ -1,6 +1,6 @@
 # Time-series-Forecasting
 
-Task to forecast sales of Electric Water heater for the first month of 2019
+Task was to forecast sales of Electric Water heater for the first month of 2019
 
  Performed 
  - Data exploration
