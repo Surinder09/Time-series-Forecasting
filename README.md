@@ -5,7 +5,7 @@
  - Outliers 
  
  Algorithm used-
- 1.Holtwinter's method
- 2.SARIMA
- 3.LSTM
- 4.XgBoost
+-Holtwinter's method
+-SARIMA
+-LSTM
+-XgBoost
