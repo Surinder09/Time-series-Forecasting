@@ -1,2 +1,11 @@
 # Time-series-Forecasting
-Time series forecasting using HW,SARIMA,LSTM and Xgboost
+ Performed 
+ - Data exploration
+ - identified Trend,pattern
+ - Outliers 
+ 
+ Algorithm used-
+ 1.Holtwinter's method
+ 2.SARIMA
+ 3.LSTM
+ 4.XgBoost
